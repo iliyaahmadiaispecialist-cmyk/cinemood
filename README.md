@@ -23,4 +23,4 @@ Part of the AIOLEARN Cinemood challenge (section AI 3).
 3. Run cinemood_mood.ipynb
 
 ## Video
-https://drive.google.com/file/d/1noBI9QCOXRzalhSPfv2PixHd_aQC8wvQ/view?usp=drivesdk
+(https://drive.google.com/file/d/1noBI9QCOXRzalhSPfv2PixHd_aQC8wvQ/view?usp=drivesdk)
